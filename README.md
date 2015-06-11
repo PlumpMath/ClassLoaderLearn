@@ -1,4 +1,4 @@
-# ClassLoaderLearn 了解和使用classLoader
+# ClassLoaderLearn 了解和使用ClassLoader
 ## 使用
  - 简单使用classLoader只需要继承java.lang.ClassLoader类，并实现其findClass方法。
 
